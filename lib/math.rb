@@ -4,7 +4,7 @@ return sum
 end
 
 def subtraction(num1, num2)
-subtraction=num2 - num1 
+subtraction=num1 - num2 
 return subtraction
 end
 
@@ -15,11 +15,11 @@ end
 
 def multiplication(num1, num2)
 multiplication=num1 * num2
-return multiplication
+return multiplica2tion
 end
 
-def modulo(num1, num2)
-modulo=num2 % num1 
+def modulo(num1, um2)
+modulo=num1 % num2 
 return modulo
 end
 
