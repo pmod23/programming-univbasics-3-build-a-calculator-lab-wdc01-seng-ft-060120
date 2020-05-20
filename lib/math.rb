@@ -4,15 +4,17 @@ return sum
 end
 
 def subtraction(num1, num2)
-
+subtraction= num2 - num1 
+return subtraction
 end
 
 def division(num1, num2)
-
+division num1 / num2 
+retun division
 end
 
 def multiplication(num1, num2)
-
+multiplication
 end
 
 def modulo(num1, num2)
