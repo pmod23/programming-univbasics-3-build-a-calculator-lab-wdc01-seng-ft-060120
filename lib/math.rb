@@ -18,7 +18,7 @@ multiplication=num1 * num2
 return multiplica2tion
 end
 
-def modulo(num1, um2)
+def modulo(num1, num2)
 modulo=num1 % num2 
 return modulo
 end
