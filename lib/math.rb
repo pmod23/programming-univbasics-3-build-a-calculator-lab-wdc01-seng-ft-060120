@@ -24,5 +24,6 @@ retun modulo
 end
 
 def square_root(num)
-square_root num
+square_root Math.sqrt(num)
+retun square_root
 end
